@@ -15,18 +15,18 @@ Ok let me break this in parts.
 
 ➡️ In a tutorial of Web development or any other coding domain a person comes and tells you about a concept and also show you the way how to approach problems with that new concept.
 
-And also they will tell you about the the **pit holes** one could face.😵
+And also they will tell you about the **pit holes** one could face.😵
 
 but isn't that supposed to be great?
 
-The answer is no until and unless you fall in a pit hole and fix that by surfing google, stack-overflow, GitHub, official documentation or any other blog it's not going to help you. The time you will spend in searching the solution of the error your are facing you will learn a lot of new things you can't even imagine.
+The answer is no until and unless you fall in a pit hole and fix that by surfing google, stack-overflow, GitHub, official documentation or any other blog, it's not going to help you. The time you will spend in searching the solution of the error you are facing, you will learn a lot of new things you can't even imagine.
 
-# Lets see what a project offers you then?
+# Let's see what a project offers you then?
 
  1. A project teaches you how to get the job done.
  2. It teaches you what to do when you fall into a pit hole. You will learn to get out of them. Where in tutorial you don't get to learn that.
- 3. Unlike a tutorial, a project, most of the times forces you to go and read the documentation to solve a problem required specially for that particular project.
- 4.  Every project is different an need better understand of tech stack to solve them.
+ 3. Unlike a tutorial, a project, most of the time forces you to go and read the documentation to solve a problem required specially for that particular project.
+ 4.  Every project is different and need better understanding of tech stack to solve them.
  5.  Most importantly, a project teaches you how to deal with real life problems.
  6. You will see new perspectives of same problem.
  7. In the search you will learn new things besides the solution of your error.
@@ -39,5 +39,5 @@ In real life scenario of a job or anything one will be solving a real-life probl
 Build projects as much as you can and don't always go with the stack you know well.
 First think of a project and then decide the stack which will be best suitable to build the project. 
 
-** And never ever be afraid to try new stack you don't know **
+** And never ever be afraid to try new stack you don't know. **
 
